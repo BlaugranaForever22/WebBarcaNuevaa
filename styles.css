@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #f0f0f0;
+}
+
+.top {
+    background: #A50044;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.menu a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color: yellow;
+}
+
+.seccion {
+    margin: 10px;
+    padding: 10px;
+    background: white;
+}
+
+h2 {
+    color: #003087;
+}
+
+.pie {
+    background: #003087;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
